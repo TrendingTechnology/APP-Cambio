@@ -1,5 +1,5 @@
 # APP-Cambio
-Aplicativo  de Conversão de moedas para Android e IOS sendo consumido de uma API web de Moedas. Estudano API em react-native Aprofundando os conhecimentos em "User Experience". o proposito deste aplicativo é melhorar os conhecimento em desenvolvimento com API, sendo que está API web a cada 30m atualiza os valores das moedas para trazer veracidade nas informações sobre o mercado Financeiro para os usuários do Aplicativode Câmbio.
+Aplicativo  de Conversão de moedas para Android e IOS sendo consumido de uma API web de Moedas. Estudando o consumo de API em react-native Aprofundando os conhecimentos em "User Experience". o propósito  deste aplicativo é melhorar os conhecimento em desenvolvimento com API, sendo que está API web a cada 30m atualiza os valores das moedas para trazer veracidade nas informações sobre o mercado Financeiro para os usuários do Aplicativo de Câmbio.
 
 
 
